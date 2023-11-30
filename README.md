@@ -1,7 +1,12 @@
+<!-- @format -->
+
 <<<<<<< HEAD
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+Simple calendar for reservations in horizontal view, free to use for everyone, if you find bug or any mistake please contact me at marsidorowicz@gmail.com
 
 ## Available Scripts
 
@@ -44,7 +49,8 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
-=======
+# To learn React, check out the [React documentation](https://reactjs.org/).
+
 # reservation-calendar
->>>>>>> origin/main
+
+> > > > > > > origin/main
