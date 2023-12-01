@@ -8,6 +8,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 Simple calendar for reservations in horizontal view, free to use for everyone, if you find bug or any mistake please contact me at marsidorowicz@gmail.com
 
+Calendar accepts two arrays of objects, one is reservation list second a list of Properties (could be an apartment or one of escape rooms etc...)
+
 ## Available Scripts
 
 In the project directory, you can run:
